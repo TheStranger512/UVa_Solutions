@@ -19,6 +19,7 @@ using namespace std;
     typedef long long ll;
     typedef long double ld;
     typedef pair <int, int> Pii;
+    
     //Variables!!!
         char **ch, **ch2;
         int i, k, l, m, n, o, p, t;
